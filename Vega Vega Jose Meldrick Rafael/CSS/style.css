@@ -1,0 +1,16 @@
+nav {
+    background-color: #5e92f2;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: rgb(5, 16, 21);
+}
